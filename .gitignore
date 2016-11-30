@@ -36,3 +36,6 @@ legacy/err.egg-info/
 
 # tox
 .tox
+
+errbot/data
+errbot/plugins
